@@ -23,7 +23,7 @@ Repo for "<a href="https://arxiv.org" target="_blank">OmniTryOn: Video Try-On An
 
 ##  News
 
-- _2025.06_:  We will release the <a href="https://huggingface.co/datasets/xcll/Try-Any-Bench"><b>[TryAny-Bench] in two days</b></a>.
+- _2025.06_:  We will release the <a href="https://huggingface.co/datasets/xcll/Try-Any-Bench"><b>[TryAny-Bench]</b></a> in two days.
 
 - _2025.06_:  We release the checkpoints of the <a href="https://huggingface.co/xcll/omnitryon_model"><b>[OmniTryOn model]</b></a>.
 
@@ -44,7 +44,7 @@ bash DiffSynth-Studio\examples\wanvideo\model_training\full\Video-As-Prompt-Wan2
 
 ## Inference
 ```bash
-bash DiffSynth-Studio\examples\wanvideo\model_training\validate_full\Video-As-Prompt-Wan2.1-14B.py
+python DiffSynth-Studio\examples\wanvideo\model_training\validate_full\Video-As-Prompt-Wan2.1-14B.py
 ```
 
 ## Acknowledgment
