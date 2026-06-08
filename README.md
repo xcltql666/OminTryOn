@@ -15,11 +15,11 @@ Repo for "<a href="https://arxiv.org" target="_blank">OmniTryOn: Video Try-On An
 
 ![Visual](./examples/visual_examples.jpg)
 
-## DenseDiT Model
-![DenseDiT](./examples/omnitryon.jpg)
+## OmniTryOn Model
+![OmniTryOn](./examples/omnitryon.jpg)
 
-## DenseWorld Benchmark
-![DenseWorld](./examples/tryanybench.jpg)
+## TryAny-Bench Benchmark
+![TryAny-Bench](./examples/tryanybench.jpg)
 
 ##  News
 
