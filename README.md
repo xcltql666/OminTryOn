@@ -59,4 +59,4 @@ If you find it helpful, please kindly cite the paper.
 
 ## 📬 Contact
 
-If you have any inquiries, suggestions, or wish to contact us for any reason, we warmly invite you to email us at 202066@stu.xjtu.edu.cn or cp3jia@stu.xjtu.edu.cn.
+If you have any inquiries, suggestions, or wish to contact us for any reason, we warmly invite you to email us at 202066@stu.xjtu.edu.cn.
