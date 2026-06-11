@@ -3,14 +3,14 @@ OmniTryOn: Video Try-On Anything at Once!
 </h1>
 <p align="center">
   <a href="https://xcltql666.github.io/OmniTryOnProj/"><b>[🌐 Website]</b></a> •
-  <a href="https://arxiv.org/"><b>[📜 Paper]</b></a> •
+  <a href="https://arxiv.org/abs/2606.08514"><b>[📜 Paper]</b></a> •
   <a href="https://huggingface.co/xcll/omnitryon_model"><b>[🤗 HF Models]</b></a> •  
   <a href="https://huggingface.co/datasets/xcll/Try-Any-Bench"><b>[🤗 HF Dataset]</b></a> •  
 </p>
 
 
 <p align="center">
-Repo for "<a href="https://arxiv.org" target="_blank">OmniTryOn: Video Try-On Anything at Once!</a>"
+Repo for "<a href="https://arxiv.org/abs/2606.08514" target="_blank">OmniTryOn: Video Try-On Anything at Once!</a>"
 </p>
 
 ![Visual](./examples/visual_examples.jpg)
